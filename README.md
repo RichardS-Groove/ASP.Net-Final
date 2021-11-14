@@ -1,3 +1,4 @@
-# tpFinal_ASP
+# tASP.Net-Final
 Trabajo práctico final de ASP.Net
-"# ASP.Net-Final" 
+
+Alumno: Richard Campos B.
